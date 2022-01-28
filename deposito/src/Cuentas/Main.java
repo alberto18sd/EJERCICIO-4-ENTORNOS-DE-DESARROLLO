@@ -1,5 +1,9 @@
 package Cuentas;
 
+/**
+ * @author Alberto Sanchez Dominguez
+ * @version 12.6
+ */
 
 import Cuentas.CCuenta;
 
